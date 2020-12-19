@@ -1,0 +1,20 @@
+{
+    "name": "fuzzy-match-string",
+    "version": "1.0.0",
+    "description": "Task 02 - Talent Factory Batch 1",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hpazk/fuzzy-match-string.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/hpazk/fuzzy-match-string/issues"
+    },
+    "homepage": "https://github.com/hpazk/fuzzy-match-string#readme"
+}
