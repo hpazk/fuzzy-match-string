@@ -3,5 +3,6 @@ export let bookTitle = [
     'Tidak Ada Judul',
     'Keyboard Rusak',
     'Hanya Butiran Debu',
-    'Keyboard Bagus'
+    'Keyboard Bagus',
+    'Handphonku'
 ]
